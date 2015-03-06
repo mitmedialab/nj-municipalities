@@ -6,8 +6,6 @@
   "licenses": [
     {
       "type": "odc-pddl",
-      "name": "Public Domain Dedication and License",
-      "version": "1.0",
       "url": "http://opendatacommons.org/licenses/pddl/1.0/"
     }
   ],
