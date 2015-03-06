@@ -1,0 +1,566 @@
+"Pop.rank",Municipality,County,"Population in 2010[1]","Municipal type","Form of government"
+1,Newark,Essex,"277,140",City,Faulkner Act (Mayor-Council)
+2,Jersey City,Hudson,"247,597",City,Faulkner Act (Mayor-Council)
+3,Paterson,Passaic,"146,199",City,Faulkner Act (Mayor-Council)
+4,Elizabeth,Union,"124,969",City,Faulkner Act (Mayor-Council)
+5,Edison,Middlesex,"99,967",Township,Faulkner Act (Mayor-Council)
+6,Woodbridge,Middlesex,"99,585",Township,Faulkner Act (Mayor-Council)
+7,Lakewood,Ocean,"92,843",Township,Township (Township Committee-Manager)
+8,Toms River,Ocean,"91,239",Township,Faulkner Act (Mayor-Council)
+9,Hamilton,Mercer,"88,464",Township,Faulkner Act (Mayor-Council)
+10,Trenton,Mercer,"84,913",City,Faulkner Act (Mayor-Council)
+11,Clifton,Passaic,"84,136",City,1923 Municipal Manager Law
+12,Camden,Camden,"77,344",City,Faulkner Act (Mayor-Council)
+13,Brick,Ocean,"75,072",Township,Faulkner Act (Mayor-Council)
+14,Cherry Hill,Camden,"71,045",Township,Faulkner Act (Mayor-Council)
+15,Passaic,Passaic,"69,781",City,Faulkner Act (Mayor-Council)
+16,Middletown,Monmouth,"66,522",Township,Special Charter (New Jersey)
+17,Union City,Hudson,"66,455",City,Walsh Act
+18,Old Bridge,Middlesex,"65,375",Township,Faulkner Act (Mayor-Council)
+19,Gloucester Township,Camden,"64,634",Township,Faulkner Act (Mayor-Council)
+20,East Orange,Essex,"64,270",City,City (New Jersey)
+21,Bayonne,Hudson,"63,024",City,Faulkner Act (Mayor-Council)
+22,Franklin,Somerset,"62,300",Township,Faulkner Act (Council-Manager)
+23,North Bergen,Hudson,"60,773",Township,Walsh Act
+24,Vineland,Cumberland,"60,724",City,Faulkner Act (Mayor-Council)
+25,Union,Union,"56,642",Township,Township (New Jersey)
+26,Piscataway,Middlesex,"56,044",Township,Faulkner Act (Mayor-Council)
+27,New Brunswick,Middlesex,"55,181",City,Faulkner Act (Mayor-Council)
+28,Jackson,Ocean,"54,856",Township,Faulkner Act (Mayor-Council)
+29,Wayne,Passaic,"54,717",Township,Faulkner Act (Mayor-Council)
+30,Irvington,Essex,"53,926",Township,Faulkner Act (Mayor-Council)
+31,Parsippany,Morris,"53,238",Township,Faulkner Act (Mayor-Council)
+32,Howell,Monmouth,"51,075",Township,Faulkner Act (Council-Manager)
+33,Perth Amboy,Middlesex,"50,814",City,Faulkner Act (Mayor-Council)
+34,Hoboken,Hudson,"50,005",City,Faulkner Act (Mayor-Council)
+35,Plainfield,Union,"49,808",City,Special Charter (New Jersey)
+36,West New York,Hudson,"49,708",Town,Walsh Act
+37,Washington Township,Gloucester,"48,559",Township,Faulkner Act (Mayor-Council)
+38,East Brunswick,Middlesex,"47,512",Township,Faulkner Act (Mayor-Council)
+39,Bloomfield,Essex,"47,315",Township,Special Charter (New Jersey)
+40,West Orange,Essex,"46,207",Township,Faulkner Act (Mayor-Council)
+41,Evesham,Burlington,"45,538",Township,Faulkner Act (Council-Manager)
+42,Bridgewater,Somerset,"44,464",Township,Faulkner Act (Mayor-Council)
+43,South Brunswick,Middlesex,"43,417",Township,Faulkner Act (Council-Manager)
+44,Egg Harbor,Atlantic,"43,323",Township,Township (New Jersey)
+45,Manchester,Ocean,"43,070",Township,Faulkner Act (Mayor-Council)
+46,Hackensack,Bergen,"43,010",City,1923 Municipal Manager Law
+47,Sayreville,Middlesex,"42,704",Borough,Borough (New Jersey)
+48,Mount Laurel,Burlington,"41,864",Township,Faulkner Act (Council-Manager)
+49,Berkeley,Ocean,"41,255",Township,Faulkner Act (Mayor-Council)
+50,North Brunswick,Middlesex,"40,742",Township,Faulkner Act (Mayor-Council-Administrator)
+51,Kearny,Hudson,"40,684",Town,Town (New Jersey)
+52,Linden,Union,"40,499",City,City (New Jersey)
+53,Marlboro,Monmouth,"40,191",Township,Faulkner Act (Mayor-Council)
+54,Teaneck,Bergen,"39,776",Township,Faulkner Act (Council-Manager)
+55,Atlantic City,Atlantic,"39,558",City,Faulkner Act (Mayor-Council)
+56,Winslow,Camden,"39,499",Township,Township (New Jersey)
+57,Monroe,Middlesex,"39,132",Township,Faulkner Act (Mayor-Council)
+58,Manalapan,Monmouth,"38,872",Township,Township (New Jersey)
+59,Hillsborough,Somerset,"38,303",Township,Township (New Jersey)
+60,Montclair,Essex,"37,669",Township,Faulkner Act (Council-Manager)
+61,Galloway,Atlantic,"37,349",Township,Faulkner Act (Council-Manager)
+62,Freehold Township,Monmouth,"36,184",Township,Township (New Jersey)
+63,Monroe Township,Gloucester,"36,129",Township,Faulkner Act (Mayor-Council)
+64,Belleville,Essex,"35,926",Township,Faulkner Act (Council-Manager)
+65,Pennsauken,Camden,"35,885",Township,Township (New Jersey)
+66,Ewing,Mercer,"35,790",Township,Faulkner Act (Mayor-Council)
+67,Fort Lee,Bergen,"35,345",Borough,Borough (New Jersey)
+68,Lawrence,Mercer,"33,472",Township,Faulkner Act (Council-Manager)
+69,Fair Lawn,Bergen,"32,457",Borough,Faulkner Act (Council-Manager)
+70,Willingboro,Burlington,"31,629",Township,Faulkner Act (Council-Manager)
+71,Long Branch,Monmouth,"30,719",City,Faulkner Act (Mayor-Council)
+72,Deptford,Gloucester,"30,561",Township,Faulkner Act (Council-Manager)
+73,Garfield,Bergen,"30,487",City,1923 Municipal Manager Law
+74,Westfield,Union,"30,316",Town,Special Charter (New Jersey)
+75,City of Orange,Essex,"30,134",Township,Faulkner Act (Mayor-Council)
+76,Livingston,Essex,"29,366",Township,Faulkner Act (Council-Manager)
+77,Voorhees,Camden,"29,131",Township,Township (New Jersey)
+78,Princeton[note 1],Mercer,"28,572",Borough,Borough (New Jersey)
+79,Millville,Cumberland,"28,400",City,Walsh Act
+80,Nutley,Essex,"28,370",Township,Walsh Act
+81,Mount Olive,Morris,"28,117",Township,Faulkner Act (Mayor-Council)
+82,Neptune,Monmouth,"27,935",Township,Township (New Jersey)
+83,Pemberton Township,Burlington,"27,912",Township,Faulkner Act (Mayor-Council)
+84,Lacey,Ocean,"27,644",Township,Township (New Jersey)
+85,Rahway,Union,"27,346",City,Faulkner Act (Mayor-Council)
+86,Ocean Township,Monmouth,"27,291",Township,Faulkner Act (Council-Manager)
+87,East Windsor,Mercer,"27,190",Township,Faulkner Act (Council-Manager)
+88,West Windsor,Mercer,"27,165",Township,Faulkner Act (Mayor-Council)
+89,Englewood,Bergen,"27,147",City,Special Charter (New Jersey)
+90,Bergenfield,Bergen,"26,764",Borough,Borough (New Jersey)
+91,Bernards Township,Somerset,"26,652",Township,Township (New Jersey)
+92,Stafford Township,Ocean,"26,535",Township,Faulkner Act (Small Municipality)
+93,Hamilton Township,Atlantic,"26,503",Township,Township (New Jersey)
+94,Paramus,Bergen,"26,342",Borough,Borough (New Jersey)
+95,Wall,Monmouth,"26,164",Township,Township (New Jersey)
+96,Mahwah,Bergen,"25,890",Township,Faulkner Act (Mayor-Council)
+97,West Milford,Passaic,"25,850",Township,Faulkner Act (Mayor-Council-Administrator)
+98,Randolph,Morris,"25,734",Township,Faulkner Act (Council-Manager)
+99,Bridgeton,Cumberland,"25,349",City,Faulkner Act (Mayor-Council)
+100,Ridgewood,Bergen,"24,958",Village,Faulkner Act (Council-Manager)
+101,Rockaway Township,Morris,"24,156",Township,Faulkner Act (Mayor-Council)
+102,Lodi,Bergen,"24,136",Borough,1923 Municipal Manager Law
+103,Vernon,Sussex,"23,943",Township,Faulkner Act (Mayor-Council)[3]
+104,Maplewood,Essex,"23,867",Township,
+105,Cliffside Park,Bergen,"23,594",Borough,
+106,Scotch Plains,Union,"23,510",Township,Faulkner Act (Council-Manager)
+107,South Plainfield,Middlesex,"23,385",Borough,
+108,Roxbury,Morris,"23,324",Township,Faulkner Act (Council-Manager)
+109,Medford,Burlington,"23,033",Township,Faulkner Act (Council-Manager)
+110,Plainsboro,Middlesex,"22,999",Township,
+111,Lower Township,Cape May,"22,866",Township,Faulkner Act (Council-Manager)
+112,Carteret,Middlesex,"22,844",Borough,
+113,Cranford,Union,"22,625",Township,
+114,Burlington Township,Burlington,"22,594",Township,
+115,Morris Township,Morris,"22,306",Township,
+116,Montgomery,Somerset,"22,254",Township,
+117,Raritan Township,Hunterdon,"22,185",Township,
+118,North Plainfield,Somerset,"21,936",Borough,
+119,West Deptford,Gloucester,"21,677",Township,
+120,Montville,Morris,"21,528",Township,Special Charter (New Jersey)
+121,Summit,Union,"21,457",City,City (New Jersey)
+122,Hillside,Union,"21,404",Township,
+123,Jefferson,Morris,"21,314",Township,
+124,Roselle,Union,"21,085",Borough,
+125,Barnegat,Ocean,"20,936",Township,
+126,Moorestown,Burlington,"20,726",Township,Faulkner Act (Council-Manager)
+127,Lyndhurst,Bergen,"20,554",Township,Walsh Act
+128,Hazlet,Monmouth,"20,334",Township,
+129,Pleasantville,Atlantic,"20,249",City,City (New Jersey)
+130,Millburn,Essex,"20,149",Township,
+131,Little Egg Harbor,Ocean,"20,065",Township,
+132,Sparta,Sussex,"19,722",Township,Faulkner Act (Council-Manager)
+133,Palisades Park,Bergen,"19,622",Borough,
+134,Elmwood Park,Bergen,"19,403",Borough,
+135,Maple Shade,Burlington,"19,131",Township,Faulkner Act (Council-Manager)
+136,Middle Township,Cape May,"18,911",Township,
+137,Hawthorne,Passaic,"18,791",Borough,
+138,Glassboro,Gloucester,"18,579",Borough,
+139,Washington Township,Morris,"18,533",Township,
+140,Morristown,Morris,"18,411",Town,
+141,Point Pleasant,Ocean,"18,392",Borough,
+142,Aberdeen,Monmouth,"18,210",Township,Faulkner Act (Council-Manager)
+143,Dover,Morris,"18,157",Town,Town (New Jersey)
+144,Rutherford,Bergen,"18,061",Borough,
+145,Tinton Falls,Monmouth,"17,892",Borough,
+146,Lindenwold,Camden,"17,613",Borough,
+147,Dumont,Bergen,"17,479",Borough,
+148,Hopewell Township,Mercer,"17,304",Township,
+149,Delran,Burlington,"16,896",Township,
+150,Franklin Township,Gloucester,"16,820",Township,
+151,Holmdel,Monmouth,"16,773",Township,
+152,Wyckoff,Bergen,"16,696",Township,
+153,Denville,Morris,"16,635",Township,
+154,New Milford,Bergen,"16,341",Borough,
+155,Secaucus,Hudson,"16,264",Town,Town (New Jersey)
+156,South Orange Village,Essex,"16,198",Township[4],Special Charter (New Jersey)
+157,Readington,Hunterdon,"16,126",Township,
+158,Asbury Park,Monmouth,"16,116",City,Faulkner Act (Council-Manager)
+159,South River,Middlesex,"16,008",Borough,
+160,Madison,Morris,"15,845",Borough,
+161,Springfield,Union,"15,817",Township,
+162,Cinnaminson,Burlington,"15,569",Township,
+163,Pequannock,Morris,"15,540",Township,Faulkner Act (Council-Manager)
+164,North Arlington,Bergen,"15,392",Borough,
+165,Warren,Somerset,"15,311",Township,
+166,Mantua,Gloucester,"15,217",Township,
+167,Hopatcong,Sussex,"15,147",Borough,
+168,Phillipsburg,Warren,"14,950",Town,
+169,Hammonton,Atlantic,"14,791",Town,Town (New Jersey)
+170,Clark,Union,"14,756",Township,
+171,Haddon Township,Camden,"14,707",Township,Walsh Act
+172,Tenafly,Bergen,"14,488",Borough,Special Charter (New Jersey)
+173,Ramsey,Bergen,"14,473",Borough,
+174,Branchburg,Somerset,"14,459",Township,
+175,Little Falls,Passaic,"14,432",Township,
+176,Highland Park,Middlesex,"13,982",Borough,
+177,Collingswood,Camden,"13,926",Borough,Walsh Act
+178,Fairview,Bergen,"13,835",Borough,
+179,Hanover,Morris,"13,712",Township,
+180,Saddle Brook,Bergen,"13,659",Township,
+181,Robbinsville,Mercer,"13,642",Township,Faulkner Act (Mayor-Council)
+182,Middlesex,Middlesex,"13,635",Borough,
+183,Harrison,Hudson,"13,620",Town,Town (New Jersey)
+184,Metuchen,Middlesex,"13,574",Borough,
+185,Clinton Township,Hunterdon,"13,478",Township,Faulkner Act (Small Municipality)
+186,Pennsville,Salem,"13,409",Township,
+187,Verona,Essex,"13,332",Township,Faulkner Act (Council-Manager)
+188,Roselle Park,Union,"13,297",Borough,
+189,Berkeley Heights,Union,"13,183",Township,
+190,Oakland,Bergen,"12,754",Borough,
+191,Ridgefield Park,Bergen,"12,729",Village,Walsh Act
+192,Eatontown,Monmouth,"12,709",Borough,
+193,Lumberton,Burlington,"12,559",Township,
+194,Weehawken,Hudson,"12,554",Township,Faulkner Act (Council-Manager)
+195,Harrison Township,Gloucester,"12,417",Township,
+196,Cedar Grove,Essex,"12,411",Township,Faulkner Act (Council-Manager)
+197,Upper Township,Cape May,"12,373",Township,
+198,Ringwood,Passaic,"12,228",Borough,Faulkner Act (Council-Manager)
+199,Red Bank,Monmouth,"12,206",Borough,
+200,New Providence,Union,"12,171",Borough,
+201,Florence,Burlington,"12,109",Township,
+202,Somerville,Somerset,"12,098",Borough,
+203,Freehold Borough,Monmouth,"12,052",Borough,
+204,Hasbrouck Heights,Bergen,"11,842",Borough,
+205,Woodland Park,Passaic,"11,819",Borough,Faulkner Act (Small Municipality)
+206,Ocean City,Cape May,"11,701",City,
+207,Florham Park,Morris,"11,696",Borough,
+208,Glen Rock,Bergen,"11,601",Borough,
+209,Haddonfield,Camden,"11,593",Borough,Walsh Act
+210,Bellmawr,Camden,"11,583",Borough,
+211,Edgewater,Bergen,"11,513",Borough,
+212,Gloucester City,Camden,"11,456",City,Special Charter (New Jersey)
+213,Bordentown Township,Burlington,"11,367",Township,
+214,Wantage,Sussex,"11,358",Township,
+215,River Edge,Bergen,"11,340",Borough,
+216,Wallington,Bergen,"11,335",Borough,
+217,Guttenberg,Hudson,"11,176",Town,Town (New Jersey)
+218,East Hanover,Morris,"11,157",Township,Faulkner Act (Small Municipality)
+219,Wanaque,Passaic,"11,116",Borough,
+220,Pompton Lakes,Passaic,"11,097",Borough,
+221,Beachwood,Ocean,"11,045",Borough,
+222,Ridgefield,Bergen,"11,032",Borough,
+223,Westwood,Bergen,"10,908",Borough,
+224,Totowa,Passaic,"10,804",Borough,
+225,Somers Point,Atlantic,"10,795",City,City (New Jersey)
+226,West Caldwell,Essex,"10,759",Township,
+227,Ventnor City,Atlantic,"10,650",City,Walsh Act
+228,Waterford,Camden,"10,649",Township,
+229,Little Ferry,Bergen,"10,626",Borough,
+230,Franklin Lakes,Bergen,"10,590",Borough,
+231,Millstone Township,Monmouth,"10,566",Township,
+232,Lincoln Park,Morris,"10,521",Borough,
+233,Southampton,Burlington,"10,464",Township,
+234,Chatham Township,Morris,"10,452",Township,
+235,Bound Brook,Somerset,"10,402",Borough,
+236,Manville,Somerset,"10,344",Borough,
+237,Kinnelon,Morris,"10,248",Borough,
+238,Pine Hill,Camden,"10,233",Borough,
+239,Hillsdale,Bergen,"10,219",Borough,
+240,Woolwich Township,Gloucester,"10,200",Township,
+241,Woodbury,Gloucester,"10,174",City,City (New Jersey)
+242,Colts Neck,Monmouth,"10,142",Township,
+243,Keansburg,Monmouth,"10,105",Borough,Faulkner Act (Council-Manager)
+244,Burlington,Burlington,"9,920",City,
+245,Hackettstown,Warren,"9,724",Town,Special Charter (New Jersey)
+246,River Vale,Bergen,"9,659",Township,
+247,Waldwick,Bergen,"9,625",Borough,
+248,East Greenwich,Gloucester,"9,555",Township,
+249,Maywood,Bergen,"9,555",Borough,
+250,Mount Holly,Burlington,"9,536",Township,Faulkner Act (Council-Manager)
+251,Brigantine,Atlantic,"9,450",City,Faulkner Act (Council-Manager)
+252,Pittsgrove,Salem,"9,393",Township,
+253,Washington Township,Bergen,"9,102",Township,
+254,Pitman,Gloucester,"9,011",Borough,
+255,Chatham Borough,Morris,"8,962",Borough,
+256,Leonia,Bergen,"8,937",Borough,
+257,East Rutherford,Bergen,"8,913",Borough,
+258,Edgewater Park,Burlington,"8,881",Township,
+259,Audubon,Camden,"8,819",Borough,Walsh Act
+260,Westampton,Burlington,"8,813",Township,
+261,Matawan,Monmouth,"8,810",Borough,
+262,Long Hill,Morris,"8,702",Township,
+263,Park Ridge,Bergen,"8,645",Borough,
+264,South Amboy,Middlesex,"8,631",City,
+265,Northfield,Atlantic,"8,624",City,City (New Jersey)
+266,Cresskill,Bergen,"8,573",Borough,
+267,Mansfield Township,Burlington,"8,544",Township,
+268,Runnemede,Camden,"8,468",Borough,
+269,Plumsted,Ocean,"8,421",Township,
+270,North Haledon,Passaic,"8,417",Borough,
+271,Absecon,Atlantic,"8,411",City,City (New Jersey)
+272,Closter,Bergen,"8,373",Borough,
+273,Byram,Sussex,"8,350",Township,Faulkner Act (Council-Manager)
+274,Boonton,Morris,"8,347",Town,Town (New Jersey)
+275,Ocean Township,Ocean,"8,332",Township,
+276,Haledon,Passaic,"8,318",Borough,
+277,Spotswood,Middlesex,"8,257",Borough,
+278,Hardyston,Sussex,"8,213",Township,Special Charter (New Jersey)
+279,Upper Saddle River,Bergen,"8,208",Borough,
+280,Bogota,Bergen,"8,187",Borough,
+281,Clayton,Gloucester,"8,179",Borough,
+282,Bedminster,Somerset,"8,165",Township,
+283,West Long Branch,Monmouth,"8,097",Borough,
+284,Riverside,Burlington,"8,079",Township,
+285,Carneys Point,Salem,"8,049",Township,
+286,Lopatcong,Warren,"8,014",Township,Faulkner Act (Small Municipality)
+287,Newton,Sussex,"7,997",Town,Faulkner Act (Council-Manager)
+288,Oradell,Bergen,"7,978",Borough,
+289,Maurice River,Cumberland,"7,976",Township,
+290,Kenilworth,Union,"7,914",Borough,
+291,Montvale,Bergen,"7,844",Borough,
+292,Chester Township,Morris,"7,838",Township,Faulkner Act (Small Municipality)
+293,Caldwell,Essex,"7,822",Borough,
+294,Mansfield Township,Warren,"7,725",Township,
+295,Bernardsville,Somerset,"7,707",Borough,
+296,Chesterfield,Burlington,"7,699",Township,
+297,North Hanover,Burlington,"7,678",Township,
+298,Upper Deerfield,Cumberland,"7,660",Township,
+299,Bloomingdale,Passaic,"7,656",Borough,
+300,Wood-Ridge,Bergen,"7,626",Borough,
+301,Berlin,Camden,"7,588",Borough,
+302,Buena Vista,Atlantic,"7,570",Township,
+303,Butler,Morris,"7,539",Borough,
+304,Glen Ridge,Essex,"7,527",Borough,
+305,Haddon Heights,Camden,"7,473",Borough,
+306,Fairfield,Essex,"7,466",Township,Faulkner Act (Small Municipality)
+307,Emerson,Bergen,"7,401",Borough,
+308,Palmyra,Burlington,"7,398",Borough,
+309,New Hanover,Burlington,"7,385",Township,
+310,Fanwood,Union,"7,318",Borough,
+311,Keyport,Monmouth,"7,240",Borough,
+312,Dunellen,Middlesex,"7,227",Borough,
+313,Green Brook,Somerset,"7,203",Township,
+314,Midland Park,Bergen,"7,128",Borough,
+315,Rumson,Monmouth,"7,122",Borough,
+316,Linwood,Atlantic,"7,092",City,City (New Jersey)
+317,Stratford,Camden,"7,040",Borough,
+318,Barrington,Camden,"6,983",Borough,
+319,Tabernacle,Burlington,"6,949",Township,
+320,Upper Freehold,Monmouth,"6,902",Township,
+321,Milltown,Middlesex,"6,893",Borough,
+322,Raritan,Somerset,"6,881",Borough,
+323,Mountainside,Union,"6,685",Borough,
+324,Washington Township,Warren,"6,651",Township,
+325,Lebanon Township,Hunterdon,"6,588",Township,
+326,Wharton,Morris,"6,522",Borough,
+327,Allendale,Bergen,"6,505",Borough,
+328,Shamong,Burlington,"6,490",Township,
+329,Dennis Township,Cape May,"6,467",Township,
+330,Washington,Warren,"6,461",Borough,Faulkner Act (Council-Manager)
+331,Rockaway,Morris,"6,438",Borough,
+332,Margate City,Atlantic,"6,354",City,Walsh Act
+333,Andover Township,Sussex,"6,319",Township,
+334,Fairfield Township,Cumberland,"6,295",Township,
+335,Union Beach,Monmouth,"6,245",Borough,
+336,North Caldwell,Essex,"6,183",Borough,
+337,Mullica Township,Atlantic,"6,147",Township,
+338,Carlstadt,Bergen,"6,127",Borough,
+339,Fair Haven,Monmouth,"6,121",Borough,
+340,Hainesport,Burlington,"6,110",Township,
+341,Paulsboro,Gloucester,"6,097",Borough,
+342,Eastampton,Burlington,"6,069",Township,Faulkner Act (Council-Manager)
+343,Logan Township,Gloucester,"6,042",Township,Faulkner Act (Small Municipality)
+344,Tewksbury,Hunterdon,"5,993",Township,
+345,Blairstown,Warren,"5,967",Township,
+346,Little Silver,Monmouth,"5,950",Borough,
+347,Jamesburg,Middlesex,"5,915",Borough,
+348,Union Township,Hunterdon,"5,908",Township,
+349,Manasquan,Monmouth,"5,897",Borough,
+350,Mendham Township,Morris,"5,869",Township,
+351,Prospect Park,Passaic,"5,865",Borough,
+352,Oceanport,Monmouth,"5,832",Borough,
+353,Roseland,Essex,"5,819",Borough,
+354,Watchung,Somerset,"5,801",Borough,
+355,Belmar,Monmouth,"5,794",Borough,Faulkner Act (Small Municipality)
+356,Old Tappan,Bergen,"5,750",Borough,
+357,Woodcliff Lake,Bergen,"5,730",Borough,
+358,Greenwich Township,Warren,"5,712",Township,
+359,Norwood,Bergen,"5,711",Borough,
+360,Independence Township,Warren,"5,662",Township,
+361,Frankford Township,Sussex,"5,565",Township,
+362,Morris Plains,Morris,"5,532",Borough,
+363,Rochelle Park,Bergen,"5,530",Township,
+364,Hightstown,Mercer,"5,494",Borough,
+365,Berlin Township,Camden,"5,357",Township,Faulkner Act (Small Municipality)
+366,Wildwood,Cape May,"5,325",City,Walsh Act
+367,Holland Township,Hunterdon,"5,291",Township,
+368,Englewood Cliffs,Bergen,"5,281",Borough,
+369,Hampton Township,Sussex,"5,196",Township,
+370,Commercial Township,Cumberland,"5,178",Township,
+371,Somerdale,Camden,"5,151",Borough,
+372,Penns Grove,Salem,"5,147",Borough,
+373,Salem,Salem,"5,146",City,City (New Jersey)
+374,Mount Arlington,Morris,"5,050",Borough,
+375,Franklin,Sussex,"5,045",Borough,
+376,Highlands,Monmouth,"5,005",Borough,Faulkner Act (Small Municipality)
+377,Clementon,Camden,"5,000",Borough,
+378,Mendham Borough,Morris,"4,981",Borough,
+379,Alexandria Township,Hunterdon,"4,938",Township,
+380,Greenwich Township,Gloucester,"4,899",Township,Faulkner Act (Small Municipality)
+381,White Township,Warren,"4,882",Township,
+382,Demarest,Bergen,"4,881",Borough,
+383,Neptune City,Monmouth,"4,869",Borough,
+384,Brielle,Monmouth,"4,774",Borough,
+385,Spring Lake Heights,Monmouth,"4,713",Borough,
+386,Mount Ephraim,Camden,"4,676",Borough,Walsh Act
+387,Point Pleasant Beach,Ocean,"4,665",Borough,
+388,Harrington Park,Bergen,"4,664",Borough,
+389,Northvale,Bergen,"4,640",Borough,
+390,Buena,Atlantic,"4,603",Borough,
+391,Flemington,Hunterdon,"4,581",Borough,
+392,Hopewell Township,Cumberland,"4,571",Township,
+393,Delaware Township,Hunterdon,"4,563",Township,
+394,South Bound Brook,Somerset,"4,563",Borough,
+395,Atlantic Highlands,Monmouth,"4,385",Borough,
+396,Magnolia,Camden,"4,341",Borough,
+397,Allamuchy,Warren,"4,323",Township,Faulkner Act (Small Municipality)
+398,Bradley Beach,Monmouth,"4,298",Borough,Faulkner Act (Small Municipality)
+399,Westville,Gloucester,"4,288",Borough,
+400,Delanco,Burlington,"4,283",Township,
+401,Boonton Township,Morris,"4,263",Township,
+402,Egg Harbor City,Atlantic,"4,243",City,City (New Jersey)
+403,Garwood,Union,"4,226",Borough,
+404,Elk,Gloucester,"4,216",Township,
+405,Mountain Lakes,Morris,"4,160",Borough,Faulkner Act (Council-Manager)
+406,Medford Lakes,Burlington,"4,146",Borough,1923 Municipal Manager Law
+407,Stillwater,Sussex,"4,099",Township,
+408,Ho-Ho-Kus,Bergen,"4,078",Borough,
+409,North Wildwood,Cape May,"4,041",City,City (New Jersey)
+410,Oaklyn,Camden,"4,038",Borough,
+411,Pilesgrove,Salem,"4,016",Township,
+412,East Amwell,Hunterdon,"4,013",Township,
+413,Bethlehem Township,Hunterdon,"3,979",Township,
+414,Bordentown,Burlington,"3,924",City,Walsh Act
+415,Lambertville,Hunterdon,"3,906",City,Faulkner Act (Small Municipality)
+416,Cranbury,Middlesex,"3,857",Township,
+417,Montague,Sussex,"3,847",Township,
+418,Kingwood,Hunterdon,"3,845",Township,
+419,West Amwell,Hunterdon,"3,840",Township,
+420,Harding Township,Morris,"3,838",Township,
+421,Merchantville,Camden,"3,821",Borough,
+422,Shrewsbury,Monmouth,"3,809",Borough,
+423,South Toms River,Ocean,"3,684",Borough,
+424,Mine Hill,Morris,"3,651",Township,
+425,High Bridge,Hunterdon,"3,648",Borough,
+426,Stanhope,Sussex,"3,610",Borough,
+427,Cape May,Cape May,"3,607",City,Faulkner Act (Council-Manager)
+428,Green Township,Sussex,"3,601",Township,
+429,Riverdale,Morris,"3,559",Borough,
+430,Upper Pittsgrove,Salem,"3,505",Township,
+431,Woodstown,Salem,"3,505",Borough,
+432,Alloway Township,Salem,"3,467",Township,
+433,Fredon Township,Sussex,"3,437",Township,
+434,Springfield Township,Burlington,"3,414",Township,Faulkner Act (Council-Manager)
+435,Haworth,Bergen,"3,382",Borough,
+436,Tuckerton,Ocean,"3,347",Borough,
+437,Pohatcong Township,Warren,"3,339",Township,Faulkner Act (Small Municipality)
+438,Lawrence Township,Cumberland,"3,290",Township,
+439,Monmouth Beach,Monmouth,"3,279",Borough,Walsh Act
+440,Hamburg,Sussex,"3,277",Borough,
+441,Wildwood Crest,Cape May,"3,270",Borough,Walsh Act
+442,Netcong,Morris,"3,232",Borough,
+443,Franklin Township,Hunterdon,"3,195",Township,
+444,Franklin Township,Warren,"3,176",Township,
+445,South Harrison,Gloucester,"3,162",Township,
+446,Saddle River,Bergen,"3,152",Borough,
+447,Deerfield Township,Cumberland,"3,119",Township,
+448,Knowlton Township,Warren,"3,055",Township,
+449,Woodbury Heights,Gloucester,"3,055",Borough,
+450,Long Beach,Ocean,"3,051",Township,Walsh Act
+451,National Park,Gloucester,"3,036",Borough,
+452,Spring Lake,Monmouth,"2,993",Borough,
+453,Woodlynne,Camden,"2,978",Borough,
+454,Lawnside,Camden,"2,945",Borough,
+455,Liberty Township,Warren,"2,942",Township,
+456,Seaside Heights,Ocean,"2,887",Borough,
+457,Riverton,Burlington,"2,779",Borough,
+458,Clinton,Hunterdon,"2,719",Town,Town (New Jersey)
+459,Weymouth Township,Atlantic,"2,715",Township,
+460,Moonachie,Bergen,"2,708",Borough,
+461,Belvidere,Warren,"2,681",Town,Town (New Jersey)
+462,Harmony Township,Warren,"2,667",Township,
+463,Quinton Township,Salem,"2,666",Township,
+464,Lakehurst,Ocean,"2,654",Borough,
+465,Pennington,Mercer,"2,585",Borough,
+466,Swedesboro,Gloucester,"2,584",Borough,
+467,Peapack-Gladstone,Somerset,"2,582",Borough,
+468,Beverly,Burlington,"2,577",City,City (New Jersey)
+469,Lafayette,Sussex,"2,538",Township,
+470,Oxford Township,Warren,"2,514",Township,
+471,Woodbine,Cape May,"2,472",Borough,
+472,Ogdensburg,Sussex,"2,410",Borough,
+473,East Newark,Hudson,"2,406",Borough,
+474,South Hackensack,Bergen,"2,378",Township,
+475,Alpha,Warren,"2,369",Borough,
+476,Wenonah,Gloucester,"2,278",Borough,
+477,Gibbsboro,Camden,"2,274",Borough,
+478,Frelinghuysen Township,Warren,"2,230",Township,
+479,Helmetta,Middlesex,"2,178",Borough,
+480,Sussex,Sussex,"2,130",Borough,
+481,Pine Beach,Ocean,"2,127",Borough,
+482,Sea Isle City,Cape May,"2,114",City,Walsh Act
+483,Essex Fells,Essex,"2,113",Borough,
+484,Ocean Gate,Ocean,"2,011",Borough,
+485,Sandyston Township,Sussex,"1,998",Township,
+486,Brooklawn,Camden,"1,955",Borough,
+487,Hope,Warren,"1,952",Township,
+488,Hopewell,Mercer,"1,922",Borough,
+489,Laurel Springs,Camden,"1,908",Borough,
+490,Avon-by-the-Sea,Monmouth,"1,901",Borough,Walsh Act
+491,Folsom,Atlantic,"1,885",Borough,
+492,Lavallette,Ocean,"1,875",Borough,
+493,Alpine,Bergen,"1,849",Borough,
+494,Englishtown,Monmouth,"1,847",Borough,
+495,Allentown,Monmouth,"1,828",Borough,
+496,Sea Girt,Monmouth,"1,828",Borough,
+497,Mannington,Salem,"1,806",Township,
+498,Woodland Township,Burlington,"1,788",Township,
+499,Oldmans Township,Salem,"1,773",Township,
+500,Lower Alloways Creek,Salem,"1,770",Township,
+501,Lake Como,Monmouth,"1,759",Borough,
+502,Estell Manor,Atlantic,"1,735",City,Faulkner Act (Small Municipality)
+503,Glen Gardner,Hunterdon,"1,704",Borough,
+504,Hardwick Township,Warren,"1,696",Township,
+505,Island Heights,Ocean,"1,673",Borough,Faulkner Act (Small Municipality)
+506,Chester Borough,Morris,"1,649",Borough,
+507,Chesilhurst,Camden,"1,634",Borough,
+508,Eagleswood,Ocean,"1,603",Township,
+509,Downe Township,Cumberland,"1,585",Township,
+510,Seaside Park,Ocean,"1,579",Borough,
+511,Newfield,Gloucester,"1,553",Borough,
+512,Victory Gardens,Morris,"1,520",Borough,
+513,Winfield,Union,"1,471",Township,
+514,Bass River Township,Burlington,"1,443",Township,Walsh Act
+515,Stow Creek Township,Cumberland,"1,431",Township,
+516,Sea Bright,Monmouth,"1,412",Borough,
+517,Pemberton,Burlington,"1,409",Borough,
+518,Hampton,Hunterdon,"1,401",Borough,
+519,Elmer,Salem,"1,395",Borough,
+520,Frenchtown,Hunterdon,"1,373",Borough,
+521,Lebanon,Hunterdon,"1,358",Borough,
+522,Avalon,Cape May,"1,334",Borough,
+523,Farmingdale,Monmouth,"1,329",Borough,
+524,Milford,Hunterdon,"1,233",Borough,
+525,Surf City,Ocean,"1,205",Borough,
+526,Beach Haven,Ocean,"1,170",Borough,Walsh Act
+527,Ship Bottom,Ocean,"1,156",Borough,
+528,Shrewsbury Township,Monmouth,"1,141",Township,
+529,Port Republic,Atlantic,"1,115",City,City (New Jersey)
+530,Califon,Hunterdon,"1,076",Borough,
+531,Elsinboro Township,Salem,"1,036",Township,
+532,West Cape May,Cape May,"1,024",Borough,Walsh Act
+533,Audubon Park,Camden,"1,023",Borough,
+534,Bay Head,Ocean,968,Borough,
+535,Far Hills,Somerset,919,Borough,
+536,Longport,Atlantic,895,Borough,Walsh Act
+537,Roosevelt,Monmouth,882,Borough,
+538,Bloomsbury,Hunterdon,870,Borough,
+539,Hi-Nella,Camden,870,Borough,
+540,Stone Harbor,Cape May,866,Borough,
+541,Branchville,Sussex,841,Borough,
+542,Interlaken,Monmouth,820,Borough,
+543,Greenwich Township,Cumberland,804,Township,
+544,Wrightstown,Burlington,802,Borough,
+545,Deal,Monmouth,750,Borough,Walsh Act
+546,Washington Township,Burlington,687,Township,
+547,Rocky Hill,Somerset,682,Borough,
+548,Andover,Sussex,606,Borough,
+549,West Wildwood,Cape May,603,Borough,Walsh Act
+550,Barnegat Light,Ocean,574,Borough,
+551,Fieldsboro,Burlington,540,Borough,
+552,Stockton,Hunterdon,538,Borough,
+553,Rockleigh,Bergen,531,Borough,
+554,Shiloh,Cumberland,516,Borough,
+555,Allenhurst,Monmouth,496,Borough,Walsh Act
+556,Corbin City,Atlantic,492,City,City (New Jersey)
+557,Millstone,Somerset,418,Borough,
+558,Harvey Cedars,Ocean,337,Borough,Walsh Act
+559,Mantoloking,Ocean,296,Borough,
+560,Cape May Point,Cape May,291,Borough,Walsh Act
+561,Loch Arbour,Monmouth,194,Village,Walsh Act
+562,Teterboro,Bergen,67,Borough,1923 Municipal Manager Law
+563,Walpack Township,Sussex,16,Township,
+564,Pine Valley,Camden,12,Borough,Walsh Act
+565,Tavistock,Camden,5,Borough,Walsh Act
