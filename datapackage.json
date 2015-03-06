@@ -1,0 +1,68 @@
+{
+  "name": "nj-municipalities",
+  "title": "List of all municipalities in the state of New Jersey (USA), including GeonamesID",
+  "format": "csv",
+  "datapackage_version": "1.0",
+  "licenses": [
+    {
+      "id": "odc-pddl",
+      "name": "Public Domain Dedication and License",
+      "version": "1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "web": "http://en.wikipedia.org/wiki/List_of_municipalities_in_New_Jersey"
+    },
+    {
+      "name": "Geonames",
+      "web": "http://www.geonames.org"
+    }
+  ],
+  "resources": [
+    {
+      "url": "https://raw.githubusercontent.com/c4fcm/nj-municipalities/master/data/nj-municipalities.csv",
+      "path": "data/nj-municipalities.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "description": "Municipality names (from Wikipedia)",
+            "type": "string"
+          },
+          {
+            "name": "county",
+            "description": "The name of the country the municipality is in (from Wikipedia)",
+            "type": "string"
+          },
+          {
+            "name": "population2010",
+            "description": "Population of the municipality as recorded in the 2010 US Census (from Wikipedia)",
+            "type": "integer"
+          },
+          {
+            "name": "type",
+            "description": "The type of this municiplaity - city, township, or borough (from Wikipedia)",
+            "type": "string"
+          },
+          {
+            "name": "government",
+            "description": "The form of government the municipality employs (from Wikipedia)",
+            "type": "integer"
+          },
+          {
+            "name": "geonamesId",
+            "description": "The unique Geonames ID for this municipality",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "maintainers":[{
+    "name": "Rahul Bhargava",
+    "web": "https://github.com/c4fcm/nj-municipalities"
+  }]
+}
