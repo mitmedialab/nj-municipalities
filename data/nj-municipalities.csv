@@ -89,7 +89,7 @@ East Windsor,Mercer,"27,190",Township,Faulkner Act (Council-Manager),5097470
 West Windsor,Mercer,"27,165",Township,Faulkner Act (Mayor-Council),5106323
 Englewood,Bergen,"27,147",City,Special Charter (New Jersey),5097685
 Bergenfield,Bergen,"26,764",Borough,Borough (New Jersey),5095613
-Bernards Township,Somerset,"26,652",Township,Township (New Jersey),
+Bernards Township,Somerset,"26,652",Township,Township (New Jersey),5095625
 Stafford Township,Ocean,"26,535",Township,Faulkner Act (Small Municipality),4504264
 Hamilton Township,Atlantic,"26,503",Township,Township (New Jersey),5098784
 Paramus,Bergen,"26,342",Borough,Borough (New Jersey),5102392
@@ -163,7 +163,7 @@ Springfield,Union,"15,817",Township,,5104955
 Cinnaminson,Burlington,"15,569",Township,,5096636
 Pequannock,Morris,"15,540",Township,Faulkner Act (Council-Manager),5102564
 North Arlington,Bergen,"15,392",Borough,,5101876
-Warren,Somerset,"15,311",Township,,
+Warren,Somerset,"15,311",Township,,8299577
 Mantua,Gloucester,"15,217",Township,,4502885
 Hopatcong,Sussex,"15,147",Borough,,5099295
 Phillipsburg,Warren,"14,950",Town,,5102616
@@ -533,7 +533,7 @@ Elsinboro Township,Salem,"1,036",Township,,4501686
 West Cape May,Cape May,"1,024",Borough,Walsh Act,4504778
 Audubon Park,Camden,"1,023",Borough,,4500575
 Bay Head,Ocean,968,Borough,,5095438
-Far Hills,Somerset,919,Borough,,
+Far Hills,Somerset,919,Borough,,5097839
 Longport,Atlantic,895,Borough,Walsh Act,4502778
 Roosevelt,Monmouth,882,Borough,,5103479
 Bloomsbury,Hunterdon,870,Borough,,5095792
