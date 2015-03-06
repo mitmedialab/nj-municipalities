@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 start_time = time.time()
 requests_logger = logging.getLogger('requests')
-requests_logger.setLevel(logging.DEBUG)
+requests_logger.setLevel(logging.WARN)
 
 # load the settings
 log.info("Loading settings from %s" % SETTINGS_FILE_NAME)
@@ -52,7 +52,7 @@ with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
         # query geonames to find matching records
         name = row[4]+" of "+row[1] # lookup as "blah of blah" seemed to work better
         name = re.sub(r'\[[^\]]*\]', '', name)  # remove footnotes, which are in square brackets
-        log.debug("  Investigating %s" % name)
+        log.info("  Investigating %s" % name)
         municipality_info = {
             'name': row[1],
             'county': row[2],
