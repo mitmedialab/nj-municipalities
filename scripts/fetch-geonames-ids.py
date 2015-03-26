@@ -1,5 +1,5 @@
-import logging, csv, json, sys, time, re, ConfigParser, os
-import requests
+import logging, json, sys, time, re, ConfigParser, os
+import requests, csvkit
 
 import cache
 
@@ -46,7 +46,7 @@ data = []
 
 # run through the municipalities
 with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
-    reader = csv.reader(csvfile)
+    reader = csvkit.reader(csvfile)
     reader.next()
     for row in reader:
         # query geonames to find matching records
@@ -56,7 +56,7 @@ with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
         municipality_info = {
             'name': row[1],
             'county': row[2],
-            'population2010': row[3],
+            'population2010': row[3].replace(",",""),
             'type': row[4],
             'government': row[5],
             'geonamesId': ''
@@ -93,7 +93,7 @@ with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
 
 # write the output CSV
 with open(os.path.join(data_dir,'nj-municipalities.csv'), 'wb') as csvfile:
-    writer = csv.writer(csvfile)
+    writer = csvkit.writer(csvfile)
     columns = ['name','county','population2010','type','government','geonamesId']
     writer.writerow(columns)
     for row in data:
