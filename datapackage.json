@@ -48,7 +48,7 @@
           {
             "name": "government",
             "description": "The form of government the municipality employs (from Wikipedia)",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "geonamesId",
