@@ -15,7 +15,7 @@ data_dir = os.path.join(os.path.dirname(scripts_dir),'data')
 cache.set_dir(os.path.join(scripts_dir,cache.DEFAULT_DIR)) # cache the Geonames query results so we don't use up our API username tokens
 
 # set up logging
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.WARN)
 log = logging.getLogger(__name__)
 start_time = time.time()
 requests_logger = logging.getLogger('requests')
@@ -38,11 +38,22 @@ log.info("Loading municipality list from %s" % NJ_MUNICIPALITY_FILE)
 
 match_results = { # track results
     'none': 0,
-    'first': 0,
-    'not_first': 0
+    'found': 0,
+    'no_match': 0,
+    'duplicate_match': 0
 }
 
+geonames_picked_already = {}
 data = []
+
+def _pick_best_match(results,name,municipality_info,check_against_name):
+    for candidate in results['geonames']:
+        log.debug("    compare to %d: %s" % (candidate['geonameId'],candidate['name']) )
+        if candidate['countryCode']=='US' and candidate['adminCode1']=='NJ' \
+            and ( (check_against_name is False) or (name==candidate['name']) ) \
+            and candidate['fcode']=='ADMD' and (municipality_info['county'] in candidate['adminName2']):
+                return candidate
+    return None
 
 # run through the municipalities
 with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
@@ -52,7 +63,6 @@ with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
         # query geonames to find matching records
         name = row[4]+" of "+row[1] # lookup as "blah of blah" seemed to work better
         name = re.sub(r'\[[^\]]*\]', '', name)  # remove footnotes, which are in square brackets
-        log.info("  Investigating %s" % name)
         municipality_info = {
             'name': row[1],
             'county': row[2],
@@ -61,6 +71,7 @@ with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
             'government': row[5],
             'geonamesId': ''
         }
+        log.info("  Investigating %s in %s as '%s'" % (municipality_info['name'],municipality_info['county'],name) )
         if not cache.contains(name):
             params = {
                 'name': name,
@@ -69,23 +80,33 @@ with open(os.path.join(scripts_dir,NJ_MUNICIPALITY_FILE), 'rb') as csvfile:
                 'featureCode': 'ADMD',
                 'type': 'json',
                 'maxRows': '10',
-                'username': geonames_username
+                'username': geonames_username,
+                'style': 'full'
             }
             r = requests.get(GEONAMES_SEARCH_API_URL, params=params)
             log.debug("    added to cache from %s" % r.url)
             cache.put(name,r.text)
-        response_text = cache.get(name)
-        results = json.loads(response_text)
+        results = json.loads( cache.get(name) )
         # pick the best match
         if results['totalResultsCount']>0:
-            candidate = results['geonames'][0]
-            if candidate['countryCode']=='US' and candidate['adminCode1']=='NJ' and candidate['fcode']=='ADMD':
-                match_results['first'] = match_results['first'] + 1
-                municipality_info['geonamesId'] = candidate['geonameId'];
-                log.debug("    Match to geoname %d" % candidate['geonameId'])
+            match = _pick_best_match(results,name,municipality_info,True)
+            if match is None:
+                match = _pick_best_match(results,name,municipality_info,False)
+            if match is not None:
+                if match['geonameId'] in geonames_picked_already:
+                    log.error("    Matched to geoname %d, but we've picked that already for %s in %s:-(" % 
+                        (match['geonameId'],
+                            geonames_picked_already[match['geonameId']]['name'],
+                            geonames_picked_already[match['geonameId']]['county']) )
+                    match_results['duplicate_match'] = match_results['duplicate_match'] + 1
+                else:
+                    geonames_picked_already[match['geonameId']] = municipality_info
+                    match_results['found'] = match_results['found'] + 1
+                    municipality_info['geonamesId'] = match['geonameId']
+                    log.debug("    Match to geoname %d" % match['geonameId'])
             else:
-                match_results['not_first'] = match_results['not_first'] + 1
-                log.warn("  %s: First candidate doesn't match (out of %d)" % (name,results['totalResultsCount']))
+                match_results['no_match'] = match_results['no_match'] + 1
+                log.error("  %s: didn't find a match in the results (county of %s)" % (name,municipality_info['county']))
         else:
             match_results['none'] = match_results['none'] + 1
             log.error("  %s: No matches :-(" % name)
@@ -101,7 +122,8 @@ with open(os.path.join(data_dir,'nj-municipalities.csv'), 'wb') as csvfile:
         writer.writerow(info)
 
 log.info("Finished (%d total municipalities):" % len(data))
-log.info("  Found %d exact matches in the first result" % match_results['first'])
-log.info("  Missed %d because the first result didn't match" % match_results['not_first'])
+log.info("  Found %d matches" % match_results['found'])
+log.info("  Missed %d because we matched to one we already used" % match_results['duplicate_match'])
+log.info("  Missed %d because we couldn't find a match in the results" % match_results['no_match'])
 log.info("  Missed %d because we got no results" % match_results['none'])
 

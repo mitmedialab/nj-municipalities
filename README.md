@@ -10,7 +10,7 @@ GeonamesID for each municipality is extracted from an API query to [geonames.org
 
 ## Preparation
 
-This package includes a Python script to fetch the GeonamesIDs for each municipality and output a combined JSON of all the municipality information.  A handful of entries were hand-extracted when the automated search failed.
+This package includes a Python script to fetch the GeonamesIDs for each municipality and output a combined JSON of all the municipality information.  Three entries were hand-extracted because the automated search failed.
 
 Install the requirements:
 

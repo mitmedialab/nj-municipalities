@@ -20,10 +20,10 @@ Old Bridge,Middlesex,65375,Township,Faulkner Act (Mayor-Council),5102171
 Gloucester Township,Camden,64634,Township,Faulkner Act (Mayor-Council),4501947
 East Orange,Essex,64270,City,City (New Jersey),5097456
 Bayonne,Hudson,63024,City,Faulkner Act (Mayor-Council),5095461
-Franklin,Somerset,62300,Township,Faulkner Act (Council-Manager),4501856
+Franklin,Somerset,62300,Township,Faulkner Act (Council-Manager),5098262
 North Bergen,Hudson,60773,Township,Walsh Act,5101882
 Vineland,Cumberland,60724,City,Faulkner Act (Mayor-Council),4504627
-Union,Union,56642,Township,Township (New Jersey),5105660
+Union,Union,56642,Township,Township (New Jersey),5105661
 Piscataway,Middlesex,56044,Township,Faulkner Act (Mayor-Council),5102716
 New Brunswick,Middlesex,55181,City,Faulkner Act (Mayor-Council),5101726
 Jackson,Ocean,54856,Township,Faulkner Act (Mayor-Council),5099769
@@ -42,7 +42,7 @@ West Orange,Essex,46207,Township,Faulkner Act (Mayor-Council),5106301
 Evesham,Burlington,45538,Township,Faulkner Act (Council-Manager),4501723
 Bridgewater,Somerset,44464,Township,Faulkner Act (Mayor-Council),5095957
 South Brunswick,Middlesex,43417,Township,Faulkner Act (Council-Manager),5104818
-Egg Harbor,Atlantic,43323,Township,Township (New Jersey),4502710
+Egg Harbor,Atlantic,43323,Township,Township (New Jersey),4501649
 Manchester,Ocean,43070,Township,Faulkner Act (Mayor-Council),4502871
 Hackensack,Bergen,43010,City,1923 Municipal Manager Law,5098719
 Sayreville,Middlesex,42704,Borough,Borough (New Jersey),5104410
@@ -55,7 +55,7 @@ Marlboro,Monmouth,40191,Township,Faulkner Act (Mayor-Council),5100894
 Teaneck,Bergen,39776,Township,Faulkner Act (Council-Manager),5105266
 Atlantic City,Atlantic,39558,City,Faulkner Act (Mayor-Council),4500547
 Winslow,Camden,39499,Township,Township (New Jersey),4504900
-Monroe,Middlesex,39132,Township,Faulkner Act (Mayor-Council),4503098
+Monroe,Middlesex,39132,Township,Faulkner Act (Mayor-Council),5101327
 Manalapan,Monmouth,38872,Township,Township (New Jersey),5100800
 Hillsborough,Somerset,38303,Township,Township (New Jersey),5099090
 Montclair,Essex,37669,Township,Faulkner Act (Council-Manager),5101348
@@ -66,7 +66,7 @@ Belleville,Essex,35926,Township,Faulkner Act (Council-Manager),5095556
 Pennsauken,Camden,35885,Township,Township (New Jersey),4503554
 Ewing,Mercer,35790,Township,Faulkner Act (Mayor-Council),5097757
 Fort Lee,Bergen,35345,Borough,Borough (New Jersey),5098143
-Lawrence,Mercer,33472,Township,Faulkner Act (Council-Manager),4502647
+Lawrence,Mercer,33472,Township,Faulkner Act (Council-Manager),5100355
 Fair Lawn,Bergen,32457,Borough,Faulkner Act (Council-Manager),5097775
 Willingboro,Burlington,31629,Township,Faulkner Act (Council-Manager),5106455
 Long Branch,Monmouth,30719,City,Faulkner Act (Mayor-Council),5100616
@@ -84,14 +84,14 @@ Neptune,Monmouth,27935,Township,Township (New Jersey),5101693
 Pemberton Township,Burlington,27912,Township,Faulkner Act (Mayor-Council),4503536
 Lacey,Ocean,27644,Township,Township (New Jersey),4502565
 Rahway,Union,27346,City,Faulkner Act (Mayor-Council),5103071
-Ocean Township,Monmouth,27291,Township,Faulkner Act (Council-Manager),4503369
+Ocean Township,Monmouth,27291,Township,Faulkner Act (Council-Manager),5102144
 East Windsor,Mercer,27190,Township,Faulkner Act (Council-Manager),5097470
 West Windsor,Mercer,27165,Township,Faulkner Act (Mayor-Council),5106323
 Englewood,Bergen,27147,City,Special Charter (New Jersey),5097685
 Bergenfield,Bergen,26764,Borough,Borough (New Jersey),5095613
-Bernards Township,Somerset,26652,Township,Township (New Jersey),
+Bernards Township,Somerset,26652,Township,Township (New Jersey),5095625
 Stafford Township,Ocean,26535,Township,Faulkner Act (Small Municipality),4504264
-Hamilton Township,Atlantic,26503,Township,Township (New Jersey),5098784
+Hamilton Township,Atlantic,26503,Township,Township (New Jersey),4502125
 Paramus,Bergen,26342,Borough,Borough (New Jersey),5102392
 Wall,Monmouth,26164,Township,Township (New Jersey),5105965
 Mahwah,Bergen,25890,Township,Faulkner Act (Mayor-Council),5100779
@@ -137,9 +137,9 @@ Maple Shade,Burlington,19131,Township,Faulkner Act (Council-Manager),4502899
 Middle Township,Cape May,18911,Township,,4503034
 Hawthorne,Passaic,18791,Borough,,5098921
 Glassboro,Gloucester,18579,Borough,,4501934
-Washington Township,Morris,18533,Township,,4504733
+Washington Township,Morris,18533,Township,,5106124
 Morristown,Morris,18411,Town,,5101436
-Point Pleasant,Ocean,18392,Borough,,5102801
+Point Pleasant,Ocean,18392,Borough,,5102810
 Aberdeen,Monmouth,18210,Township,Faulkner Act (Council-Manager),5095014
 Dover,Morris,18157,Town,Town (New Jersey),5097307
 Rutherford,Bergen,18061,Borough,,5103592
@@ -157,13 +157,13 @@ Secaucus,Hudson,16264,Town,Town (New Jersey),5104508
 South Orange Village,Essex,16198,Township[4],Special Charter (New Jersey),5104840
 Readington,Hunterdon,16126,Township,,5103155
 Asbury Park,Monmouth,16116,City,Faulkner Act (Council-Manager),5095287
-South River,Middlesex,16008,Borough,,4504223
+South River,Middlesex,16008,Borough,,5104857
 Madison,Morris,15845,Borough,,5100767
-Springfield,Union,15817,Township,,5104955
+Springfield,Union,15817,Township,,5104956
 Cinnaminson,Burlington,15569,Township,,5096636
 Pequannock,Morris,15540,Township,Faulkner Act (Council-Manager),5102564
 North Arlington,Bergen,15392,Borough,,5101876
-Warren,Somerset,15311,Township,,
+Warren,Somerset,15311,Township,,8299577
 Mantua,Gloucester,15217,Township,,4502885
 Hopatcong,Sussex,15147,Borough,,5099295
 Phillipsburg,Warren,14950,Town,,5102616
@@ -177,7 +177,7 @@ Little Falls,Passaic,14432,Township,,5100541
 Highland Park,Middlesex,13982,Borough,,5099059
 Collingswood,Camden,13926,Borough,Walsh Act,4501308
 Fairview,Bergen,13835,Borough,,5097818
-Hanover,Morris,13712,Township,,5101740
+Hanover,Morris,13712,Township,,5098810
 Saddle Brook,Bergen,13659,Township,,5103641
 Robbinsville,Mercer,13642,Township,Faulkner Act (Mayor-Council),5106123
 Middlesex,Middlesex,13635,Borough,,5101169
@@ -233,7 +233,7 @@ Millstone Township,Monmouth,10566,Township,,5101242
 Lincoln Park,Morris,10521,Borough,,5100483
 Southampton,Burlington,10464,Township,,4504228
 Chatham Township,Morris,10452,Township,,5096503
-Bound Brook,Somerset,10402,Borough,,5104802
+Bound Brook,Somerset,10402,Borough,,5095858
 Manville,Somerset,10344,Borough,,5100834
 Kinnelon,Morris,10248,Borough,,5100066
 Pine Hill,Camden,10233,Borough,,4503609
@@ -251,7 +251,7 @@ Maywood,Bergen,9555,Borough,,5100974
 Mount Holly,Burlington,9536,Township,Faulkner Act (Council-Manager),5101494
 Brigantine,Atlantic,9450,City,Faulkner Act (Council-Manager),4500934
 Pittsgrove,Salem,9393,Township,,4503638
-Washington Township,Bergen,9102,Township,,4504733
+Washington Township,Bergen,9102,Township,,5106122
 Pitman,Gloucester,9011,Borough,,4503637
 Chatham Borough,Morris,8962,Borough,,5096502
 Leonia,Bergen,8937,Borough,,5100405
@@ -292,7 +292,7 @@ Kenilworth,Union,7914,Borough,,5099993
 Montvale,Bergen,7844,Borough,,5101364
 Chester Township,Morris,7838,Township,Faulkner Act (Small Municipality),5096528
 Caldwell,Essex,7822,Borough,,7161250
-Mansfield Township,Warren,7725,Township,,5100820
+Mansfield Township,Warren,7725,Township,,5100821
 Bernardsville,Somerset,7707,Borough,,5095630
 Chesterfield,Burlington,7699,Township,,5096530
 North Hanover,Burlington,7678,Township,,5101925
@@ -304,7 +304,7 @@ Buena Vista,Atlantic,7570,Township,,4500978
 Butler,Morris,7539,Borough,,5096107
 Glen Ridge,Essex,7527,Borough,,7161415
 Haddon Heights,Camden,7473,Borough,,4502095
-Fairfield,Essex,7466,Township,Faulkner Act (Small Municipality),4501745
+Fairfield,Essex,7466,Township,Faulkner Act (Small Municipality),5097782
 Emerson,Bergen,7401,Borough,,5097656
 Palmyra,Burlington,7398,Borough,,5102380
 New Hanover,Burlington,7385,Township,,5101740
@@ -322,7 +322,7 @@ Upper Freehold,Monmouth,6902,Township,,5105710
 Milltown,Middlesex,6893,Borough,,5101248
 Raritan,Somerset,6881,Borough,,5103137
 Mountainside,Union,6685,Borough,,5101605
-Washington Township,Warren,6651,Township,,4504733
+Washington Township,Warren,6651,Township,,5106125
 Lebanon Township,Hunterdon,6588,Township,,5100367
 Wharton,Morris,6522,Borough,,5106362
 Allendale,Bergen,6505,Borough,,5095127
@@ -356,7 +356,7 @@ Watchung,Somerset,5801,Borough,,5106140
 Belmar,Monmouth,5794,Borough,Faulkner Act (Small Municipality),5095567
 Old Tappan,Bergen,5750,Borough,,5102192
 Woodcliff Lake,Bergen,5730,Borough,,5106551
-Greenwich Township,Warren,5712,Township,,4502056
+Greenwich Township,Warren,5712,Township,,5098651
 Norwood,Bergen,5711,Borough,,5101982
 Independence Township,Warren,5662,Township,,5099460
 Frankford Township,Sussex,5565,Township,,5098209
@@ -390,7 +390,7 @@ Harrington Park,Bergen,4664,Borough,,5098846
 Northvale,Bergen,4640,Borough,,5101969
 Buena,Atlantic,4603,Borough,,4500979
 Flemington,Hunterdon,4581,Borough,,5098079
-Hopewell Township,Cumberland,4571,Township,,5099321
+Hopewell Township,Cumberland,4571,Township,,4502298
 Delaware Township,Hunterdon,4563,Township,,5097220
 South Bound Brook,Somerset,4563,Borough,,5104802
 Atlantic Highlands,Monmouth,4385,Borough,,5095315
@@ -441,8 +441,8 @@ Monmouth Beach,Monmouth,3279,Borough,Walsh Act,5101304
 Hamburg,Sussex,3277,Borough,,5098763
 Wildwood Crest,Cape May,3270,Borough,Walsh Act,4504858
 Netcong,Morris,3232,Borough,,5101703
-Franklin Township,Hunterdon,3195,Township,,4501856
-Franklin Township,Warren,3176,Township,,4501856
+Franklin Township,Hunterdon,3195,Township,,5098261
+Franklin Township,Warren,3176,Township,,5098263
 South Harrison,Gloucester,3162,Township,,4504208
 Saddle River,Bergen,3152,Borough,,5103669
 Deerfield Township,Cumberland,3119,Township,,4501485
@@ -450,7 +450,7 @@ Knowlton Township,Warren,3055,Township,,5100091
 Woodbury Heights,Gloucester,3055,Borough,,4504920
 Long Beach,Ocean,3051,Township,Walsh Act,4502763
 National Park,Gloucester,3036,Borough,,4503218
-Spring Lake,Monmouth,2993,Borough,,5104932
+Spring Lake,Monmouth,2993,Borough,,5104935
 Woodlynne,Camden,2978,Borough,,4504936
 Lawnside,Camden,2945,Borough,,4502645
 Liberty Township,Warren,2942,Township,,5100435
@@ -533,7 +533,7 @@ Elsinboro Township,Salem,1036,Township,,4501686
 West Cape May,Cape May,1024,Borough,Walsh Act,4504778
 Audubon Park,Camden,1023,Borough,,4500575
 Bay Head,Ocean,968,Borough,,5095438
-Far Hills,Somerset,919,Borough,,
+Far Hills,Somerset,919,Borough,,5097839
 Longport,Atlantic,895,Borough,Walsh Act,4502778
 Roosevelt,Monmouth,882,Borough,,5103479
 Bloomsbury,Hunterdon,870,Borough,,5095792
@@ -541,10 +541,10 @@ Hi-Nella,Camden,870,Borough,,4502225
 Stone Harbor,Cape May,866,Borough,,4504316
 Branchville,Sussex,841,Borough,,5095917
 Interlaken,Monmouth,820,Borough,,5099703
-Greenwich Township,Cumberland,804,Township,,4502056
+Greenwich Township,Cumberland,804,Township,,4502055
 Wrightstown,Burlington,802,Borough,,5106613
 Deal,Monmouth,750,Borough,Walsh Act,5097173
-Washington Township,Burlington,687,Township,,4504733
+Washington Township,Burlington,687,Township,,4504732
 Rocky Hill,Somerset,682,Borough,,5103426
 Andover,Sussex,606,Borough,,5095199
 West Wildwood,Cape May,603,Borough,Walsh Act,4504803
